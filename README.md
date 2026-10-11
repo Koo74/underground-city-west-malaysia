@@ -10,7 +10,8 @@
 
 An advanced **underground city site selection and development planning system** for **Peninsular (West) Malaysia**. Combines live USGS seismic data, OneGeology WMS, OpenStreetMap, and geographic rules to evaluate subterranean city sites across 250+ candidate locations.
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/stargazex)
+<a href="https://buymeacoffee.com/stargazex" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" > </a>
+
 
 ---
 
